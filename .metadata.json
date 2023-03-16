@@ -1,0 +1,14 @@
+[
+  {
+    "package": "juicr",
+    "oncran": true
+  },
+  {
+    "package": "metagear",
+    "oncran": true
+  },
+  {
+    "package": "switchboard",
+    "oncran": true
+  }
+]
