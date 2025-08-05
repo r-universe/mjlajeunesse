@@ -8,6 +8,3 @@
 [submodule "metagear"]
 	path = metagear
 	url = https://github.com/mjlajeunesse/metagear
-[submodule "switchboard"]
-	path = switchboard
-	url = https://github.com/mjlajeunesse/switchboard
